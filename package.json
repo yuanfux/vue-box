@@ -9,7 +9,18 @@
     "src/components/Box.vue",
     "README.md"
   ],
-  "private": true,
+  "author": "Yuan Fu <fuyuanx@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanfux/vue-box"
+  },
+  "keywords": [
+    "vue",
+    "3d",
+    "box",
+    "cube"
+  ],
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build-doc": "vue-cli-service build",
